@@ -14,3 +14,11 @@ In this exercise, you will practice using git to clone and edit repositories, as
 6. Using your terminal, add and commit the changes that you've made to your repository
 
 7. Push the changes to GitHub, and then view them in your web browser. Make sure you are looking at the repository under _your_ account!
+
+##Favorite Foods
+- Mediterranean
+- Korean Fusion
+- Mexican
+
+git push
+git remote -v
